@@ -25,15 +25,15 @@ High-Speed Circuits: Due to improved frequency characteristics.
 ## Design Parameters
 Total Width: P<sub>mos</sub> = 40µ
              
-             N<sub>mos</sub> = 30µ
+  N<sub>mos</sub> = 30µ
              
 Power Supply: V<sub>bias</sub> = -250 mV
               
-              V<sub>in</sub> - AC Mangnitude = 1V, Amplitude = 10 mV, Freqyency = 1K Hz.
+  V<sub>in</sub> - AC Mangnitude = 1V, Amplitude = 10 mV, Freqyency = 1K Hz.
               
-              V<Sub>dd</sub> = 1 V
+   V<Sub>dd</sub> = 1 V
               
-              V<Sub>ss</sub> = -1 V
+   V<Sub>ss</sub> = -1 V
 
 ## Results 
 Vin<sub>peak</sub> = 9.953 mV
@@ -42,7 +42,7 @@ Vout<sub>peak</sub> = 1.19 V
 
 Gain is, A<sub>v</sub> = vout / vin
 
-         A<sub>v</sub> = 1.19 V / 9.953 mV ≈ 119.5       
+   A<sub>v</sub> = 1.19 V / 9.953 mV ≈ 119.5       
 
 ## Circuit, Simulation And Synthesis
 ### Schematic
