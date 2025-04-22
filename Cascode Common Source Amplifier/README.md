@@ -33,10 +33,9 @@ Power Supply: V<sub>bias</sub> = -250 mV
 ## Results 
 Vin<sub>peak</sub> = 9.953 mV
 Vout<sub>peak</sub> = 1.19 V
-Gain is,
-$$
-A_v = \frac{1.19}{0.009953} \approx 119.5
-$$
+
+Gain is, A<sub>v</sub> = vout / vin
+         A<sub>v</sub> = 1.19 V / 9.953 mV ≈ 119.5       
 
 ## Circuit, Simulation And Synthesis
 ### Schematic
