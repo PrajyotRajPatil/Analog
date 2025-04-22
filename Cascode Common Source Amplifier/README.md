@@ -56,8 +56,10 @@ $$
 
 ### Layout
 ![Syn](https://github.com/user-attachments/assets/c1baa16d-73ba-44d9-85da-3dddb0f91ff7)
-[Screencast from Monday 21 April 2025 07_17_11  IST.webm](https://github.com/user-attachments/assets/9a22e254-c5a8-4d5d-ad80-3ad037004e1f)
-[Screencast from Monday 21 April 2025 07_17_52  IST.webm](https://github.com/user-attachments/assets/04856c95-0284-41ff-b164-937828d9df4a)
+
+**[Layout Design Video_1.webm](https://github.com/user-attachments/assets/9a22e254-c5a8-4d5d-ad80-3ad037004e1f)**
+
+**[Layout Design Video_2.webm](https://github.com/user-attachments/assets/04856c95-0284-41ff-b164-937828d9df4a)**
 
 ### DRC
 ![DRC](https://github.com/user-attachments/assets/254a91c1-cf20-4395-b99f-bccf8a935182)
